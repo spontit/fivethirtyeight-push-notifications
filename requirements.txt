@@ -1,0 +1,3 @@
+spontit>=1.0.4
+dateutil
+bs4
