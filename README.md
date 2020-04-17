@@ -10,8 +10,7 @@ To follow the hosted channel, go to <a href="spontit.com/liveupdates/538updates"
 
 Once you get it working, you should see something like this.
 
-
-![Image of 538 Poll Notification](result.png)
+![Image of 538 Poll Notification](push-result.png)
 
 ## Run Locally
 To run locally, simply run the program and it should work. Not a great long-term solution though.
