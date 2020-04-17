@@ -37,6 +37,6 @@ Run the program after attaching via `tmux`.
 
 `python3 main.py`
 
-To exit tmux without stopping the program, press the following command. For me, it normally takes about 10 times before I get this command to work, but it does work!
+To exit `tmux` without stopping the program, press the following command. For me, it normally takes about 10 times before I get this command to work, but it does work!
 
 `Control B + D`
